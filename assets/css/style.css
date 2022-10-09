@@ -343,7 +343,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background-image: linear-gradient(rgba(13, 13, 13, 0.3), rgba(12, 12, 12, 0.3)), url("C:/Users/ADMIN/Downloads/Arsha/Arsha/assets/img/herobg.png");
+  background-image: linear-gradient(rgba(13, 13, 13, 0.3), rgba(12, 12, 12, 0.3)), url("herobg.png");
   background-size: cover;
   
   opacity: 2;
