@@ -1647,7 +1647,8 @@ section {
 }
 @media (max-width: 576px){
   .about .content img{
-    margin-left: 80px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 10px; 
   }
   #resume  .colitem{
